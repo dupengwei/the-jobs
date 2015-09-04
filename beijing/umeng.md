@@ -18,8 +18,6 @@
 4. 有过成熟的App或者SDK开发经验优先。
 
 
-
-
 ## 联系方式
 
 简历请发到 [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com)。
